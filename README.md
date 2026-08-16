@@ -166,6 +166,10 @@ reales.
   que verificar especificaciones, disponibilidad y precios reales antes de
   realizar una compra.
 
+  ## 🤝 Presentacion Google slide
+
+  https://docs.google.com/presentation/d/1a5unRD_6_nSalWDbDNEi-Sn8nyRcvgg__2k6dr7hoWI/edit?usp=sharing
+
 ---
 
 Proyecto académico — SmartShop AI.
